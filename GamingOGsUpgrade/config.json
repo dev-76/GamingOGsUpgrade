@@ -1,0 +1,38 @@
+{
+  "GamingOGsUpgrade": {
+    "Items": [
+      {
+        "ItemID": 1,
+        "Tier": 2,
+        "Points": 200
+      },
+      {
+        "ItemID": 2,
+        "Tier": 3,
+        "Points": 300
+      },
+      {
+        "ItemID": 3,
+        "Tier": 2,
+        "Points": 400
+      },
+      {
+        "ItemID": 4,
+        "Tier": 2,
+        "Points": 200
+      }
+    ],
+    "BlueprintsAccepted": [
+      "Blueprint1",
+      "Blueprint2",
+      "Blueprint3"
+    ],
+    "Messages": {
+      "ServerName": "GamingOGsUpgrade",
+      "AddVouchers": "You were given {} vouchers",
+      "SetVouchers": "You have changed the number of vouchers to {}",
+      "AddPoints": "You were given {} points",
+      "CheckVouchersReply":  "You have {} vouchers"
+    }
+  }
+}
